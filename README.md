@@ -34,9 +34,9 @@
 
 
 ## 範例
-https://www.evaair.com/zh-tw/index.html
-https://www.acer.com/ac/es/ES/content/home
-https://www.tenmax.io/privacy-policy
+* https://www.evaair.com/zh-tw/index.html
+* https://www.acer.com/ac/es/ES/content/home
+* https://www.tenmax.io/privacy-policy
 
 
 ## 違反罰則
