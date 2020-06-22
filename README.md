@@ -47,3 +47,7 @@
 
 ## 線上樣式
 https://cookieconsent.osano.com/examples/example-1-themes.html
+
+## 文字範例
+* 中文文字範例 https://github.com/lyrasoft/chinese-privacy-policy-template
+* 英文文字範例 https://www.privacypolicies.com/
